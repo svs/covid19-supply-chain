@@ -1,0 +1,2 @@
+module UiTestHelper
+end

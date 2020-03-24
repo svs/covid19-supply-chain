@@ -1,0 +1,66 @@
+Started GET "/" for ::1 at 2020-03-24 15:49:00 +0530
+  [1m[35m (2.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/shivamr/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/shivamr/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 8.2ms | Allocations: 484)
+Completed 200 OK in 34ms (Views: 16.0ms | ActiveRecord: 0.0ms | Allocations: 2758)
+
+
+Started GET "/" for ::1 at 2020-03-24 19:34:07 +0530
+  [1m[35m (3.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/shivamr/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/shivamr/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.5ms | Allocations: 484)
+Completed 200 OK in 26ms (Views: 13.0ms | ActiveRecord: 0.0ms | Allocations: 2759)
+
+
+Started GET "/" for ::1 at 2020-03-24 19:36:58 +0530
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by UiTestController#index as HTML
+  Rendering ui_test/index.html.erb within layouts/application
+  Rendered ui_test/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 372)
+[Webpacker] Compiling...
+Started GET "/" for ::1 at 2020-03-24 19:37:03 +0530
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by UiTestController#index as HTML
+  Rendering ui_test/index.html.erb within layouts/application
+  Rendered ui_test/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 5)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/shivamr/workspace/covid19-supply-chain/covid-backend/public/packs
+[Webpacker] Hash: 32e57f147dbdcbbf0c82
+Version: webpack 4.42.1
+Time: 2888ms
+Built at: 03/24/2020 7:37:04 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-bbe9c4a129ab949e0636.js    124 KiB  application  [emitted] [immutable]  application
+js/application-bbe9c4a129ab949e0636.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-bbe9c4a129ab949e0636.js js/application-bbe9c4a129ab949e0636.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+Completed 200 OK in 5501ms (Views: 5491.8ms | ActiveRecord: 0.0ms | Allocations: 30573)
+
+
+[Webpacker] Compiled all packs in /Users/shivamr/workspace/covid19-supply-chain/covid-backend/public/packs
+[Webpacker] Hash: 32e57f147dbdcbbf0c82
+Version: webpack 4.42.1
+Time: 743ms
+Built at: 03/24/2020 7:37:06 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-bbe9c4a129ab949e0636.js    124 KiB  application  [emitted] [immutable]  application
+js/application-bbe9c4a129ab949e0636.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-bbe9c4a129ab949e0636.js js/application-bbe9c4a129ab949e0636.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+Completed 200 OK in 2344ms (Views: 2343.4ms | ActiveRecord: 0.0ms | Allocations: 7725)
+
+
