@@ -13,5 +13,16 @@ We first want to be able to crowdsource information about availability of essent
 
 We also want a news feed about government policy, hoarding, etc. as well as advocacy materials on how and how much to stock up. 
 
+## For Retail
+User should be able to describe availability of the essentials on the EssentialsList with a broad sense of how much of each is available.
+
+Retail store owners should be able to contribute information as well
+
+## For Wholesale
+We will integrate with BigBasket/Grofers/etc as well as others willing to participate all the way up the supply chain.
+
+## For Transportation
+No idea for now. Will update later.
+
 
 Discourse invite -> https://discord.gg/rSJjcA
