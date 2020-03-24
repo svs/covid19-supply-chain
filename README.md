@@ -8,6 +8,13 @@ With this end in mind we are thinking to build an app that will crowdsource info
 
 We can also interface this app with traffic, police, government, logistics providers, wholesalers and so on to gather information and therebey be able to broadcast issues in supply chain before they become critical.
 
+## Goals
+- Reduce panic buying by giving public information about supply chain health
+- Make it easier to acquire essentials for the entire community because the only way we get through this is together.
+- Spot disruptions early before they cascade into larger problems
+- Provide visibility for governments and agencies to better identify and address supply chain disruptions
+
+
 ## Approach
 We first want to be able to crowdsource information about availability of essentials at the retail level. We also want wholesalers and logistic providers to be able to provide information about their stocks.
 
