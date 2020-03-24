@@ -21,6 +21,7 @@
   - Breakfast Foods
     - Eggs
     - Poha/Suji
+    - Breakfast Cereals
   - Beverages
     - Tea
     - Coffee
@@ -34,3 +35,6 @@
     - Chicken
     - Mutton
     - Fish
+  - Frozen Foods
+  - Kids
+  - Treats
