@@ -38,3 +38,6 @@
   - Frozen Foods
   - Kids
   - Treats
+- Medicines
+- Toileteries
+- Sanitary Products
