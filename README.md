@@ -14,3 +14,4 @@ We first want to be able to crowdsource information about availability of essent
 We also want a news feed about government policy, hoarding, etc. as well as advocacy materials on how and how much to stock up. 
 
 
+Discourse invite -> https://discord.gg/rSJjcA
