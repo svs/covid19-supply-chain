@@ -1,0 +1,43 @@
+- Food
+  - Flour
+    - Atta
+    - Besan
+    - Maida
+  - Bread
+  - Rice
+  - Pulses
+    - Daal
+    - Rajma / Chhole
+  - Staples
+    - Salt
+    - Sugar
+    - Oil
+    - Spices
+  - Dairy
+    - Milk
+    - Dahi
+    - Butter
+    - Cheese
+  - Breakfast Foods
+    - Eggs
+    - Poha/Suji
+    - Breakfast Cereals
+  - Beverages
+    - Tea
+    - Coffee
+    - Soft Drinks
+  - Vegetables
+    - Staples
+        - Onions
+    	- Potatoes
+        - Tomatoes
+  - Meats
+    - Chicken
+    - Mutton
+    - Fish
+  - Frozen Foods
+  - Kids
+  - Treats
+- Medicines
+- Toileteries
+- Sanitary Products
