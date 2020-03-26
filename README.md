@@ -32,7 +32,7 @@ We will integrate with BigBasket/Grofers/etc as well as others willing to partic
 No idea for now. Will update later.
 
 #Resources
-The Rails backend is here -> https://github.com/svs/covid19-supply-chain-backend/issues/6
+The Rails backend is here -> https://github.com/svs/covid19-supply-chain-backend/
 
 
 Discourse invite -> https://discord.gg/rSJjcA
