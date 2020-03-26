@@ -28,6 +28,9 @@ Retail store owners should be able to contribute information as well
 ## For Wholesale
 We will integrate with BigBasket/Grofers/etc as well as others willing to participate all the way up the supply chain.
 
+## For end-users
+User should be able to describe availability of the essentials on the EssentialsList with a broad sense of how much of each is available and for trust/validation upload photos of the essentials they're inform about.
+
 ## For Transportation
 No idea for now. Will update later.
 
