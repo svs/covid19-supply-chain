@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "covid19-supply-chain",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
