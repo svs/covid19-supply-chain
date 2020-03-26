@@ -35,4 +35,4 @@ No idea for now. Will update later.
 The Rails backend is here -> https://github.com/svs/covid19-supply-chain-backend/
 
 
-Discourse invite -> https://discord.gg/rSJjcA
+Discord invite -> https://discord.gg/TNDEcbn
